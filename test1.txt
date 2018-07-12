@@ -4,3 +4,4 @@ This is a sample file, written for git testing.
 This line is added as part of 'master' branch test1.txt.
 -----------------------------------------------
 This modification is added from 'master' branch.>>>
+This modification is added from 'branch1' branch.
